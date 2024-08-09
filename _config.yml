@@ -11,6 +11,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-google_site_verification: 
-
 email: dcoop.me+cv@gmail.com # Allow visitors to contact you
