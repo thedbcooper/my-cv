@@ -1,5 +1,5 @@
 # Epidemiologist | Data Analyst | R Programmer
-### _Current Position - Wastewater Epidemiologist - Commonwealth of Kentucky, Department for Public Health_ 
+### Current Position - _Wastewater Epidemiologist - Commonwealth of Kentucky, \nDepartment for Public Health_ 
 
 #### Summary: 
 MPH focused on epidemiology and biostatistics with 3+ years' experience in data analysis of population health data and R programming. Skilled in statistical analysis, handling large real-world datasets, and deployment of reprodcuible R reports/visualizations/tables. An analytical and methodical thinker passionate about data, public health, collaborative biostatistics, and modernizing data workflows and tools for reproducible and sustainable apps, dashboards, reports, analysis, and research.
