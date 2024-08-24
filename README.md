@@ -3,7 +3,9 @@
 _Commonwealth of Kentucky, Department for Public Health_ 
 
 #### Summary: 
-MPH focused on epidemiology and biostatistics with 3+ years' experience in data analysis of population health data and R programming. Skilled in statistical analysis, handling large real-world datasets, and deployment of reproducible R reports, visualizations, and tables. An analytical and methodical thinker passionate about data, public health, collaborative biostatistics, and modernizing data workflows and tools for reproducible and sustainable apps, dashboards, reports, analysis, and research.
+MPH focused on epidemiology and biostatistics with 3+ years’ experience in data analysis of population health data using advanced R and SAS programming. Skilled in statistical analysis, handling large real-world datasets, and deployment of reproducible R reports, visualizations, and tables. An analytical and methodical thinker passionate about data, public health, and sharing knowledge with others. 
+
+Daniel is currently learning Python (pandas, polars, pyspark) and R Shiny. #rstats #tidyverse #sasprogramming
 
 #### Technical Skills:
 
