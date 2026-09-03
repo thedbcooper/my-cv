@@ -1,10 +1,10 @@
-title: Daniel B. Cooper
+title: Daniel B. Mason (Cooper)
 
-logo: me_profile_pic_round.png # Use a relative path to logo image 
+logo: me_profile_pic_round.png # Use a relative path to logo image
 
-description:  
+description:
 
-show_downloads: true 
+show_downloads: true
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
